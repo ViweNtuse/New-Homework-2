@@ -1,0 +1,9 @@
+.container div{
+  font-style: italic;
+  font-family: fantasy;
+  padding: 10px;
+  margin: 30px;
+  justify-content: center;
+flex: 1;
+display: flex;
+}
